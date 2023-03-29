@@ -16,27 +16,22 @@
                   <Font name="Arial" size="25.0" />
                </font>
             </Button>
-            <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#knapsackProblem" onMousePressed="#knapsackOnMousePressed" prefHeight="62.0" prefWidth="287.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="Knapsack Problem" textFill="WHITE">
+            <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#dynamicOnAction" prefHeight="62.0" prefWidth="287.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="Dynamic" textFill="WHITE">
                <font>
                   <Font name="Arial" size="25.0" />
                </font>
             </Button>
-            <Button layoutX="10.0" layoutY="72.0" mnemonicParsing="false" onAction="#nQueenProblem" onMousePressed="#nQueenOnMousePressed" prefHeight="62.0" prefWidth="283.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="N Queen Problem" textFill="WHITE">
+            <Button layoutX="10.0" layoutY="72.0" mnemonicParsing="false" onAction="#divideandConquerOnaction" prefHeight="62.0" prefWidth="283.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="Divide &amp; Conquer" textFill="WHITE">
                <font>
                   <Font name="Arial" size="25.0" />
                </font>
             </Button>
-            <Button layoutX="10.0" layoutY="134.0" mnemonicParsing="false" onAction="#knightTour" onMousePressed="#knightTourOnMousePressed" prefHeight="62.0" prefWidth="287.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="The Knight Tour" textFill="WHITE">
+            <Button layoutX="10.0" layoutY="134.0" mnemonicParsing="false" onAction="#vectorOnAction" prefHeight="62.0" prefWidth="287.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="Vector" textFill="WHITE">
                <font>
                   <Font name="Arial" size="25.0" />
                </font>
             </Button>
-            <Button layoutX="10.0" layoutY="197.0" mnemonicParsing="false" onAction="#ratInMaze" onMousePressed="#ratInMazeOnMousePressed" prefHeight="62.0" prefWidth="279.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="Rat in a Maze" textFill="WHITE">
-               <font>
-                  <Font name="Arial" size="25.0" />
-               </font>
-            </Button>
-            <Button layoutX="10.0" layoutY="260.0" mnemonicParsing="false" onAction="#sudokuSolver" onMousePressed="#sudokuOnMousePressed" prefHeight="62.0" prefWidth="277.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="Sudoku Solver" textFill="WHITE">
+            <Button layoutX="10.0" layoutY="197.0" mnemonicParsing="false" onAction="#probabilisticOnAction" prefHeight="62.0" prefWidth="279.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 2px 0px;" text="Probabilistic" textFill="WHITE">
                <font>
                   <Font name="Arial" size="25.0" />
                </font>
