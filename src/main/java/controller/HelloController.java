@@ -43,19 +43,14 @@ public class HelloController {
         loadPage("divideandconquer.fml");
 
     }
-
     @FXML
     void dynamicOnAction(ActionEvent event) {
         loadPage("dinamic.fml");
     }
-
-
-
     @FXML
     void probabilisticOnAction(ActionEvent event) {
         loadPage("probabilisticOnAction.fml");
     }
-
     @FXML
     void vectorOnAction(ActionEvent event) {
         loadPage( "vectorOnAction.fml");
